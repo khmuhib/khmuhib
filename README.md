@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Kh Muhib
+#### I'm a Software Engineer
 
-<!--
-**khmuhib/khmuhib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Readme Banner](your-image-url-here)
 
-Here are some ideas to get you started:
+I'm passionate about creating amazing software and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: JavaScript, React, HTML, CSS, Node.js
+
+- 🔭 I'm currently working on [Project Name](project-link)
+- 🌱 I'm learning [New Skill or Technology](learning-link)
+- 💬 Ask me about [Your Preferred Topic](ask-me-link)
+- 📫 Reach me at [Your Email](mailto:your-email@example.com)
+
+Connect with me:
+[![LinkedIn](linkedin-icon-url)](your-linkedin-profile-url)
+[![Twitter](twitter-icon-url)](your-twitter-profile-url)
+
+![GitHub stats](your-GitHub-stats-url)
