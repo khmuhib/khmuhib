@@ -1,239 +1,66 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/anisul-Islam/anisul-islam/blob/master/images/banner.png"><img src="/anisul-Islam/anisul-islam/raw/master/images/banner.png" width="100%" style="max-width: 100%;"></a></p>
+<h1 align="center">Hi 👋, I'm kh muhib</h1>
+<h3 align="center">A passionate frontend developer from bangladesh</h3>
 
-<h1 id="user-content---hello-im-anisul-islam-" dir="auto"><a class="heading-link" href="#--hello-im-anisul-islam-"> 👋 Hello, I'm Anisul Islam <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h1>
-<p dir="auto">A full time content creator on &amp; web developer<br>
-🏠 &nbsp; Living: Tampere, Finland</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dvsd&label=Profile%20views&color=0e75b6&style=flat" alt="dvsd" /> </p>
 
-<p dir="auto"><a href="http://www.studywithanis.com/" rel="nofollow"><img align="left" alt="website" title="website" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/website.svg" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/c/anisulislamrubel" rel="nofollow"><img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/youtube.svg" style="max-width: 100%;"></a>
-<a href="https://www.facebook.com/studywithanis/" rel="nofollow"><img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/facebook.svg" style="max-width: 100%;"></a>
-<a href="https://www.linkedin.com/in/anisul2020/" rel="nofollow"><img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/linkedin.svg" style="max-width: 100%;"></a>
-<br>
-<br></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvsd" alt="dvsd" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/bgvdsgdsg" target="blank"><img src="https://img.shields.io/twitter/follow/bgvdsgdsg?logo=twitter&style=for-the-badge" alt="bgvdsgdsg" /></a> </p>
 
-<h3 id="user-content---about-me" dir="auto"><a class="heading-link" href="#--about-me">👨&zwj;🏫 &nbsp; About Me<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
-<p align="justify" dir="auto">
-I am a passionate computer science teacher. I have been teaching programming languages, web development, and computer science-related subjects to millions of Bangla-speaking students worldwide through my YouTube channel for the last eight years. I had the opportunity to teach thousands of Bachelors's and Higher secondary students at different institutions in Bangladesh. After completing my master's in Software, Web and Cloud in August 2021, I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others.
+- 🔭 I’m currently working on [amber software solution](dsadas)
+
+- 🌱 I’m currently learning **dsada**
+
+- 👯 I’m looking to collaborate on [dsad](dsad)
+
+- 👨‍💻 All of my projects are available at [dsadd](dsadd)
+
+- 📝 I regularly write articles on [dasd](dasd)
+
+- 💬 Ask me about **dsad**
+
+- 📫 How to reach me **dsada**
+
+- 📄 Know about my experiences [dsadas](dsadas)
+
+- ⚡ Fun fact **dsadas**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/gdsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gdsg" height="30" width="40" /></a>
+<a href="https://dev.to/dsgsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dsgsd" height="30" width="40" /></a>
+<a href="https://twitter.com/bgvdsgdsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bgvdsgdsg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gsdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gsdg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sdgdsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sdgdsg" height="30" width="40" /></a>
+<a href="https://codesandbox.com/g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="g" height="30" width="40" /></a>
+<a href="https://kaggle.com/dsgsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dsgsd" height="30" width="40" /></a>
+<a href="https://fb.com/gdsgsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gdsgsd" height="30" width="40" /></a>
+<a href="https://instagram.com/gdsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gdsg" height="30" width="40" /></a>
+<a href="https://dribbble.com/gdsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="gdsg" height="30" width="40" /></a>
+<a href="https://www.behance.net/gdsgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gdsgs" height="30" width="40" /></a>
+<a href="https://hashnode.com/gdsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="gdsg" height="30" width="40" /></a>
+<a href="https://medium.com/gdsgsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="gdsgsd" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sdgsdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sdgsdg" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/gsdg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gsdg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gdsgsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gdsgsd" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sdgsdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sdgsdg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gsdfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gsdfg" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/sdgsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sdgsd" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sdgsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sdgsd" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/gdsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="gdsg" height="30" width="40" /></a>
+<a href="https://discord.gg/gsdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gsdg" height="30" width="40" /></a>
+<a href="/gdsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="gdsg" height="30" width="40" /></a>
 </p>
-<br>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gridsome.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-<h3 id="user-content---my-skills--videos" dir="auto"><a class="heading-link" href="#--my-skills--videos">👨🏽&zwj;💻 &nbsp; My Skills &amp; Videos:<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
-<h4 id="user-content-key-skills--videos-on-web-development" dir="auto"><a class="heading-link" href="#key-skills--videos-on-web-development">Key Skills &amp; Videos on Web development:<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h4>
-<p dir="auto"><a href="https://youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3" rel="nofollow"><img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/html5.svg" style="max-width: 100%;"></a>
-<a href="https://youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO" rel="nofollow"><img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/css3.svg" style="max-width: 100%;"></a>
-<a href="https://youtube.com/playlist?list=PLgH5QX0i9K3oC_wmWEZa2xWxJauIRQ9kG" rel="nofollow"><img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/bootstrap.svg" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX" rel="nofollow"><img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/js.svg" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLgH5QX0i9K3rWYYIcCykektDcb_1IPDz4" rel="nofollow"><img align="left" alt="json" title="json playlist" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/json.svg" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLgH5QX0i9K3qOvGYtFb3Z7KVMLrijYdqO" rel="nofollow"><img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/sass.svg" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB" rel="nofollow"><img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/jquery.svg" style="max-width: 100%;"></a>
-<a href="https://youtube.com/playlist?list=PLgH5QX0i9K3rGtitufynBKMy5gAFpa1y8" rel="nofollow"><img align="left" alt="react" title="react playlist" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/react.svg" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m" rel="nofollow"><img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/node.svg" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m" rel="nofollow"><img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/mongodb.svg" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD" rel="nofollow"><img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/mysql.svg" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m" rel="nofollow"><img align="left" alt="github" title="github playlist" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/github.svg" style="max-width: 100%;"></a></p>
-<br>
-<br>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dvsd&show_icons=true&locale=en&layout=compact" alt="dvsd" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dvsd&show_icons=true&locale=en" alt="dvsd" /></p>
 
-<h4 id="user-content-other-skills--videos" dir="auto"><a class="heading-link" href="#other-skills--videos">Other Skills &amp; Videos:<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h4>
-<p dir="auto"><a href="https://youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz" rel="nofollow"><img align="left" alt="c" title="c playlist" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/c.svg" style="max-width: 100%;"></a>
-<a href="https://youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL" rel="nofollow"><img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/cplus.svg" style="max-width: 100%;"></a>
-<a href="https://youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa" rel="nofollow"><img align="left" alt="java" title="java playlist" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/java.svg" style="max-width: 100%;"></a>
-<a href="https://youtube.com/playlist?list=PLgH5QX0i9K3p9xzYLFGdfYliIRBLVDRV5" rel="nofollow"><img align="left" alt="android" title="android playlist" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/android.svg" style="max-width: 100%;"></a>
-<a href="https://youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN" rel="nofollow"><img align="left" alt="python" title="python playlist" width="45" hspace="5" src="/anisul-Islam/anisul-islam/raw/master/images/python.svg" style="max-width: 100%;"></a></p>
-<br>
-<br>
-<br>
-<ul dir="auto">
-<li>
-<p dir="auto"><a href="https://youtube.com/playlist?list=PLgH5QX0i9K3p06YY1fyReA2UK8mh_zsiY" rel="nofollow">Full-stack web development (Bangla)</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://www.youtube.com/playlist?list=PLgH5QX0i9K3rRVV7oeML93OVAxqQ-CvzV" rel="nofollow">Artificial Intelligence (English)</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://youtube.com/playlist?list=PLgH5QX0i9K3oFAaeJxjDWA8kEbMutzV6V" rel="nofollow">Artificial Intelligence (Bangla)</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l" rel="nofollow">Java Swing</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://youtube.com/playlist?list=PLgH5QX0i9K3rYy9DVhk28m8enSo8xxiZ3" rel="nofollow">Discrte Math</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://youtube.com/playlist?list=PLgH5QX0i9K3oKFrSOo4Kwns1-vTZmKQ7z" rel="nofollow">Numerical Method</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://youtube.com/playlist?list=PLgH5QX0i9K3qw5pu16QgnKNj91Rnjoyd0" rel="nofollow">Theory of computation</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://youtube.com/playlist?list=PLgH5QX0i9K3oWTwTgILA7v9oysoDgkJDg" rel="nofollow">Compiler</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://www.youtube.com/playlist?list=PLgH5QX0i9K3p5OI88r3ob-otmKqIm_DbS" rel="nofollow">Networking</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://youtube.com/playlist?list=PLgH5QX0i9K3r_SuT0AnOEoElfQQPgkBIq" rel="nofollow">Operating System</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://www.youtube.com/playlist?list=PLgH5QX0i9K3o8Y-CKhmyodbfHAc9VSVOv" rel="nofollow">HSC ICT</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://youtube.com/playlist?list=PLgH5QX0i9K3qyJVIaeHSqiRWOyO6HW023" rel="nofollow">Learn for skill</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://www.youtube.com/playlist?list=PLgH5QX0i9K3p21lsneT3cW4CJL4Bd1lJ2" rel="nofollow">MS Word</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://www.youtube.com/playlist?list=PLgH5QX0i9K3ohKCQMR7aopneByGX05iSK" rel="nofollow">MS Excel</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://youtube.com/playlist?list=PLgH5QX0i9K3pBnrckqfJ2zn7FL6Q_LNcm" rel="nofollow">MS powerpoint</a></p>
-
-<br>
-</li>
-</ul>
-
-<p dir="auto"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/ab1e616fc75e1eb967bd60c352b0105f81694099bff31a08ccaa6a340cbfcbd3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e6973756c2d69736c616d" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisul-islam" style="max-width: 100%;"></a></p>
-
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8fba9a81c2490a040c1318ebc26eaa4fc7c32086a202c3c204f29950f61fb473/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e6973756c2d49736c616d2673686f775f69636f6e733d74727565"><img src="https://camo.githubusercontent.com/8fba9a81c2490a040c1318ebc26eaa4fc7c32086a202c3c204f29950f61fb473/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e6973756c2d49736c616d2673686f775f69636f6e733d74727565" alt="My GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=anisul-Islam&amp;show_icons=true" style="max-width: 100%;"></a></p>
-<br>
-
-  
-<h4 id="user-content---my-latest-youtube-videos" dir="auto"><a class="heading-link" href="#--my-latest-youtube-videos">📹 &nbsp; My Latest YouTube Videos<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h4>
-
-<ul dir="auto">
-<li><a href="https://www.youtube.com/watch?v=T54u2lIhmc0" rel="nofollow">how to navigate on the same page in React</a></li>
-<li><a href="https://www.youtube.com/watch?v=HbgqwzYQvLc" rel="nofollow">Playing badminton at Tampere Finland |  8 October 2023</a></li>
-<li><a href="https://www.youtube.com/watch?v=hxtSGWmn0Lo" rel="nofollow">Playing futsal at sammon central high school, Finland | 9 October 2023</a></li>
-<li><a href="https://www.youtube.com/watch?v=O_UZUoAWCes" rel="nofollow">আপনি কিভাবে জীবনে ভারসাম্য বজায় রাখেন | How do you balance life</a></li>
-<li><a href="https://www.youtube.com/watch?v=2_zDCWoFa1A" rel="nofollow">A big upgrade from Peugeot to Mercedes-benz C</a></li>
-</ul>
-
-<p dir="auto"><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=hf4k4OWlBfI" rel="nofollow"><img src="https://camo.githubusercontent.com/9448a73851b10f6b006df1d05ce06946193937342991244cff251bb285fbe9bb/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f6866346b344f576c4266492f332e6a7067" alt="Java" width="240" height="180" border="10" data-canonical-src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" style="max-width: 100%;"></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=fRXL0X2WSK4" rel="nofollow"><img src="https://camo.githubusercontent.com/519bd4876787ce0b5ff2ccab33861230d50f2cec74dab8c5199eb496feb0f4c5/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f6652584c30583257534b342f332e6a7067" alt="Java" width="240" height="180" border="10" data-canonical-src="https://img.youtube.com/vi/fRXL0X2WSK4/3.jpg" style="max-width: 100%;"></a></p>
-<p dir="auto">↪️ &nbsp; <a href="https://www.youtube.com/c/anisulislamrubel" rel="nofollow">search more videos...</a></p>
-<br>
-
-
-
-<h3 id="user-content---employment-history" dir="auto"><a class="heading-link" href="#--employment-history">💼 &nbsp; Employment History<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
-<table>
-<thead>
-<tr>
-<th>Position</th>
-<th>Institute</th>
-<th>Duration</th>
-<th>Location</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Full-stack trainer</td>
-<td>Integrify</td>
-<td>Aug 2022 - Running</td>
-<td>Helsinki, Finland</td>
-</tr>
-<tr>
-<td>Software Engineer</td>
-<td>M-Files</td>
-<td>Nov 2021 - Feb 2022</td>
-<td>Tampere, Finland</td>
-</tr>
-<tr>
-<td>Research Assistant</td>
-<td>Tampere University</td>
-<td>Nov 2020 - Jan 2021</td>
-<td>Tampere, Finland</td>
-</tr>
-<tr>
-<td>Lecturer of ICT</td>
-<td>Jaflong Valley Boarding School</td>
-<td>Jul 2018 – Nov 2018</td>
-<td>Sylhet, Bangladesh</td>
-</tr>
-<tr>
-<td>Guest Lecturer</td>
-<td>Sylhet Engineering College</td>
-<td>Nov 2017 – Apr 2018</td>
-<td>Sylhet, Bangladesh</td>
-</tr>
-<tr>
-<td>Android developer</td>
-<td>United Computer &amp; Technical Training Center</td>
-<td>Nov 2016 – Nov 2017</td>
-<td>Sylhet, Bangladesh</td>
-</tr>
-<tr>
-<td>Lecturer of ICT</td>
-<td>Zhingabari High School &amp; College</td>
-<td>May 2016 – Aug 2017</td>
-<td>Sylhet, Bangladesh</td>
-</tr>
-<tr>
-<td>Content Creator</td>
-<td>YouTube</td>
-<td>Jan 2012- Running</td>
-<td>USA</td>
-</tr>
-</tbody>
-</table>
-<br>
-
-
-<h3 id="user-content---education" dir="auto"><a class="heading-link" href="#--education">👨🏻&zwj;🎓 &nbsp; Education<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
-<ol dir="auto">
-<li>M.Sc. in Software, Web &amp; Cloud<br>
-Tampere University<br>
-Tampere, Finland.</li>
-<li>B.Sc. in Computer Science &amp; Engineering<br>
-Leading University<br>
-Sylhet, Bangladesh.</li>
-<li>Professional Diploma in Travel &amp; Tourism<br>
-London School of Commerce &amp; IT<br>
-London, England.</li>
-</ol>
-<br>
-
-
-<h3 id="user-content-languages" dir="auto"><a class="heading-link" href="#languages">Languages:<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
-<ul dir="auto">
-<li>🇧🇩 Bangla : Native</li>
-<li>🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced</li>
-<li>🇮🇳 Hindi : Intermediate</li>
-<li>🇧🇷 Portugues : Basic
-<br></li>
-</ul>
-
-
-<h3 id="user-content-sports--game--activities--hobby" dir="auto"><a class="heading-link" href="#sports--game--activities--hobby">Sports / Game / Activities / Hobby:<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
-<ul dir="auto">
-<li>🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball</li>
-<li>🏊&zwj;♂️ Swimming, 🏃&zwj;♂️ Running, 🚶&zwj;♂️ Walking</li>
-<li><g-emoji class="g-emoji" alias="airplane">✈️</g-emoji> Travelling</li>
-</ul>
-<br>
-
-
-<h3 id="user-content--honors--awards-" dir="auto"><a class="heading-link" href="#-honors--awards-">🏅 Honors &amp; Awards :<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
-<ul dir="auto">
-<li>100% Scholarship in Masters at Tampere University, Finland</li>
-<li>Silver Button from YouTube (350k subscribers currently)</li>
-<li>Pubali Bank Scholarship of 40,000 BDT for outstanding result in B.Sc.</li>
-</ul>
-<hr>
-<p dir="auto">Thanks for going through my Portfolio.
-All rights reserved by Anisul Islam @2021</p>
-<hr>
-
-
-
-
-
-
-
-</article>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dvsd&" alt="dvsd" /></p>
