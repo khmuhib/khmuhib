@@ -3,10 +3,7 @@
 <a href="https://www.linkedin.com/in/khmuhib/">
    <img align="left" alt="Linkedin" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
-<a href="https://www.facebook.com/kh.muhib.1/">
-  <img align="left" alt="Facebook" width="22px" src="https://gist.githubusercontent.com/ChrisBup/6100ff7896dc235a136bfd47bfff147d/raw/ef5b3e190c633fbb009884d54219699b0340a7af/social-icon-facebook.svg" />
-</a>  
-
+ 
 I'm Kh Muhib, React & React Native developer
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
